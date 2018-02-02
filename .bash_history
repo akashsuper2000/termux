@@ -79,3 +79,9 @@ pkg search clang
 pkg search gcc
 pkg search c++
 exit
+git status
+git commit -m "01022018"
+git log
+git amend
+git push origin master
+exit
